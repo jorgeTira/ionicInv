@@ -22,4 +22,9 @@ export class LoginPage {
     console.log('ionViewDidLoad LoginPage');
   }
 
+  clickHome(){
+  	console.log("clickHome");
+  }
+
+
 }
